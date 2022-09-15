@@ -29,7 +29,7 @@
 
 #### Demo video: [video]()
 
-#### Project Start: Date: 9 - 25 September, 2022
+#### Project Start: Date: 2 - 25 September, 2022
 
 #### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
 
