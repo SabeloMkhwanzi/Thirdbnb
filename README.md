@@ -17,22 +17,6 @@
 - Frontend: [Chakra-ui](https://chakra-ui.com/) - Create accessible React apps with speed
 - Hosting platform: [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-### Project Feature
-
-##### 1. Home Page
-
-![HomePage]()
-
-#### Live website: [thirdbnb]()
-
-#### GitHub Repository: [github.com/SabeloMkhwanazi](https://github.com/SabeloMkhwanzi/thirdbnb)
-
-#### Demo video: [video]()
-
-#### Project Start: Date: 2 - 25 September, 2022
-
-#### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
-
 #### Running the app
 
 ### Getting Started
